@@ -1,5 +1,5 @@
-import './App.css';
 import TableBeautifier from './components/TableBeautifier';
+import './index.css';
 
 function App() {
   return (
