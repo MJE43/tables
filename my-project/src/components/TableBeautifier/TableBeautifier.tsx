@@ -1,3 +1,4 @@
+
 /*
 <ai_context>
 UI container for the Table Beautifier.
@@ -37,8 +38,8 @@ const TableBeautifier: React.FC = () => {
   } = useTableBeautifier();
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 p-4">
-      <div className="max-w-7xl mx-auto">
+    <div className="min-h-screen w-full bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 px-4 lg:px-6 py-8 lg:py-12">
+      <div className="max-w-screen-2xl mx-auto">
         <div className="text-center mb-8">
           <h1 className="text-6xl font-black text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400 mb-6 tracking-tight">
             <Wand2 className="inline-block mr-4 text-purple-400" size={60} />
@@ -56,7 +57,7 @@ const TableBeautifier: React.FC = () => {
           </div>
         </div>
 
-        <div className="grid lg:grid-cols-2 gap-8">
+        <div className="grid grid-cols-1 xl:grid-cols-2 gap-8">
           <div className="space-y-6">
             <div className="bg-gray-800/50 backdrop-blur-lg rounded-3xl shadow-2xl p-6 border border-gray-700/50">
               <div className="flex items-center justify-between mb-4">
