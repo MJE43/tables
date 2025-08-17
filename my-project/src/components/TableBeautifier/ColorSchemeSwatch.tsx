@@ -1,4 +1,3 @@
-
 /*
 <ai_context>
 Presentational component for a color scheme option.

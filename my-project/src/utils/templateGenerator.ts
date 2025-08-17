@@ -1,4 +1,3 @@
-
 /*
 <ai_context>
 Router that maps template IDs to concrete HTML generator functions.

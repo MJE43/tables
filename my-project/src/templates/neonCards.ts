@@ -1,4 +1,3 @@
-
 /*
 <ai_context>
 Neon cards generator for 'neon-cards' template.

@@ -1,4 +1,3 @@
-
 /*
 <ai_context>
 Barrel export for the TableBeautifier component directory.

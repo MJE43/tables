@@ -1,4 +1,3 @@
-
 /*
 <ai_context>
 Gradient grid generator for 'gradient-grid'.

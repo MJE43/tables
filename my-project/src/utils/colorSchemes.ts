@@ -1,4 +1,3 @@
-
 /*
 <ai_context>
 Defines colorSchemes used by generators and UI.

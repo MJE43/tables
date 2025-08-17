@@ -1,4 +1,3 @@
-
 /*
 <ai_context>
 Compat shim so App.tsx keeps importing from "src/components/TableBeautifier".

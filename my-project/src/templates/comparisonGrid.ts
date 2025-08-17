@@ -1,4 +1,3 @@
-
 /*
 <ai_context>
 Comparison grid generator extracted from the original templateGenerator file.

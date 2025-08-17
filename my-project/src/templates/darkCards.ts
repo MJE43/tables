@@ -1,4 +1,3 @@
-
 /*
 <ai_context>
 Dark mode cards generator for 'dark-mode-cards'.

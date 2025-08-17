@@ -1,4 +1,3 @@
-
 /*
 <ai_context>
 Executive table generator extracted from the original templateGenerator file.

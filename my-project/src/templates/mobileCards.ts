@@ -1,4 +1,3 @@
-
 /*
 <ai_context>
 Mobile cards generator extracted from the original templateGenerator file.

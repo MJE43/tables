@@ -1,4 +1,3 @@
-
 /*
 <ai_context>
 Glassmorphism table generator for 'glassmorphism-table'.
@@ -73,11 +72,7 @@ export const generateGlassTableHTML = (data: ParsedTableData, scheme: string): s
           </tr>
         </thead>
         <tbody>
-          ${data.rows
-            .map(
-              (row) => `<tr>${row.map((cell) => `<td>${cell}</td>`).join('')}</tr>`,
-            )
-            .join('')}
+          ${data.rows.map((row) => `<tr>${row.map((cell) => `<td>${cell}</td>`).join('')}</tr>`).join('')}
         </tbody>
       </table>
     </div>
