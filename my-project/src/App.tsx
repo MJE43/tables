@@ -1,4 +1,5 @@
 import TableBeautifier from './components/TableBeautifier';
+import { Toaster } from '@/components/ui/sonner';
 import './index.css';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <footer className="app-footer">
         <span>© {new Date().getFullYear()} Table Beautifier. All rights reserved.</span>
       </footer>
+      <Toaster />
     </div>
   );
 }
